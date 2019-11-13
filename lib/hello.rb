@@ -7,5 +7,5 @@ i = i + 1
 end
 end
 
-# call your method here!
+hello_t(array) # call your method here!
 
